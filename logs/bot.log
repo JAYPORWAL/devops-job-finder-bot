@@ -1,0 +1,377 @@
+2025-11-04 13:14:52,827 INFO: Starting DevOps job bot
+2025-11-04 13:14:52,854 INFO: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-11-04 13:14:52,886 INFO: Added job "job_cycle" to job store "default"
+2025-11-04 13:14:52,886 INFO: Scheduler started
+2025-11-04 13:14:52,888 INFO: Running job "job_cycle (trigger: interval[0:30:00], next run at: 2025-11-04 07:44:52 IST)" (scheduled at 2025-11-04 13:14:52.853447+05:30)
+2025-11-04 13:14:52,887 INFO: Scheduler started: interval 30 minutes
+2025-11-04 13:14:52,888 INFO: Starting scrape cycle
+2025-11-04 13:14:53,991 WARNING: Indeed returned status 403 for https://in.indeed.com/jobs?q=devops&fromage=7&start=0&sort=date
+2025-11-04 13:14:54,759 WARNING: Indeed returned status 403 for https://in.indeed.com/jobs?q=devops+engineer&fromage=7&start=0&sort=date
+2025-11-04 13:14:55,373 WARNING: Indeed returned status 403 for https://in.indeed.com/jobs?q=linux&fromage=7&start=0&sort=date
+2025-11-04 13:15:00,165 INFO: Fetched 0 total job candidates
+2025-11-04 13:15:00,165 INFO: 0 jobs after date filter
+2025-11-04 13:15:00,166 INFO: 0 unique jobs after dedupe
+2025-11-04 13:15:00,183 INFO: Send complete. New jobs sent: 0
+2025-11-04 13:15:00,183 INFO: Job "job_cycle (trigger: interval[0:30:00], next run at: 2025-11-04 13:44:52 IST)" executed successfully
+2025-11-04 13:19:44,109 INFO: Shutting down scheduler
+2025-11-04 13:19:44,110 INFO: Scheduler has been shut down
+2025-11-04 13:25:52,675 INFO: Starting DevOps job bot
+2025-11-04 13:25:52,681 INFO: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-11-04 13:25:52,683 INFO: Added job "job_cycle" to job store "default"
+2025-11-04 13:25:52,683 INFO: Scheduler started
+2025-11-04 13:25:52,685 INFO: Running job "job_cycle (trigger: interval[0:30:00], next run at: 2025-11-04 07:55:52 IST)" (scheduled at 2025-11-04 13:25:52.680221+05:30)
+2025-11-04 13:25:52,684 INFO: Scheduler started: interval 30 minutes
+2025-11-04 13:25:52,685 INFO: Starting scrape cycle
+2025-11-04 13:25:53,495 WARNING: Indeed returned status 403 for https://in.indeed.com/jobs?q=devops&fromage=7&start=0&sort=date
+2025-11-04 13:25:54,211 WARNING: Indeed returned status 403 for https://in.indeed.com/jobs?q=devops+engineer&fromage=7&start=0&sort=date
+2025-11-04 13:25:54,980 WARNING: Indeed returned status 403 for https://in.indeed.com/jobs?q=linux&fromage=7&start=0&sort=date
+2025-11-04 13:26:12,521 INFO: Fetched 50 total job candidates
+2025-11-04 13:26:12,522 INFO: 14 jobs after date filter
+2025-11-04 13:26:12,523 INFO: 14 unique jobs after dedupe
+2025-11-04 13:26:18,863 INFO: Sent job: DevOps Engineer - https://in.linkedin.com/jobs/view/devops-engineer-at-dhl-4316607494?position=5&pageNum=0&refId=pg3DeEM%2F8tFw4yD7dU88rQ%3D%3D&trackingId=5NTlFpl2Fe61PL56NCAyVw%3D%3D
+2025-11-04 13:26:21,571 INFO: Sent job: DevOps Engineer - https://in.linkedin.com/jobs/view/devops-engineer-at-hackajob-4308238630?position=7&pageNum=0&refId=pg3DeEM%2F8tFw4yD7dU88rQ%3D%3D&trackingId=OJymc6U7YEWTfCTFaxDYjw%3D%3D
+2025-11-04 13:26:24,594 INFO: Sent job: Associate DevOps Engineer - https://in.linkedin.com/jobs/view/associate-devops-engineer-at-dhl-4316498987?position=8&pageNum=0&refId=pg3DeEM%2F8tFw4yD7dU88rQ%3D%3D&trackingId=2HJQWn%2F67%2F5EPvJi6FEtWw%3D%3D
+2025-11-04 13:26:28,312 INFO: Sent job: DevOps Engineer - https://in.linkedin.com/jobs/view/devops-engineer-at-coretek-4333805177?position=9&pageNum=0&refId=pg3DeEM%2F8tFw4yD7dU88rQ%3D%3D&trackingId=sNcdZdhXvbN3N2lLCSru1g%3D%3D
+2025-11-04 13:26:31,238 INFO: Sent job: Devops Engineer - https://in.linkedin.com/jobs/view/devops-engineer-at-infosys-4320032037?position=10&pageNum=0&refId=pg3DeEM%2F8tFw4yD7dU88rQ%3D%3D&trackingId=aBBWJjuCZCNIvxrr0AhuvQ%3D%3D
+2025-11-04 13:26:34,718 INFO: Sent job: DevOps Engineer - https://in.linkedin.com/jobs/view/devops-engineer-at-hackajob-4308238630?position=5&pageNum=0&refId=FHZljuJTiAB0dGk9kBvbUQ%3D%3D&trackingId=AT53UvvlI7xvI8lgZ9kzrA%3D%3D
+2025-11-04 13:26:38,156 INFO: Sent job: DevOps Engineer - https://in.linkedin.com/jobs/view/devops-engineer-at-dhl-4316607494?position=6&pageNum=0&refId=FHZljuJTiAB0dGk9kBvbUQ%3D%3D&trackingId=HgWzNgeyr9iurdsrSQg78A%3D%3D
+2025-11-04 13:26:41,580 INFO: Sent job: DevOps Engineer - https://in.linkedin.com/jobs/view/devops-engineer-at-coretek-4333805177?position=7&pageNum=0&refId=FHZljuJTiAB0dGk9kBvbUQ%3D%3D&trackingId=Ig5w30%2F5U5AundWS49KgGw%3D%3D
+2025-11-04 13:26:46,955 INFO: Sent job: Associate DevOps Engineer - https://in.linkedin.com/jobs/view/associate-devops-engineer-at-dhl-4316498987?position=8&pageNum=0&refId=FHZljuJTiAB0dGk9kBvbUQ%3D%3D&trackingId=gRmhUugdCXFGjrKcNXi8QA%3D%3D
+2025-11-04 13:26:51,264 INFO: Sent job: Devops Engineer - https://in.linkedin.com/jobs/view/devops-engineer-at-infosys-4320032037?position=10&pageNum=0&refId=FHZljuJTiAB0dGk9kBvbUQ%3D%3D&trackingId=YzERrdnaooX0SX5hFU7i8A%3D%3D
+2025-11-04 13:27:09,173 INFO: Sent job: Cloud Engineer - https://in.linkedin.com/jobs/view/cloud-engineer-at-scoutit-4320423216?position=3&pageNum=2&refId=95X%2BA7PfzHa115qSQgcAFA%3D%3D&trackingId=h5KpcyUAHyxB5vg5fYXUVg%3D%3D
+2025-11-04 13:27:12,173 INFO: Sent job: Cloud Devops engineer - https://in.linkedin.com/jobs/view/cloud-devops-engineer-at-symplr-4311829734?position=6&pageNum=2&refId=95X%2BA7PfzHa115qSQgcAFA%3D%3D&trackingId=e6h%2B5sJ4GPW87YiogbzOCQ%3D%3D
+2025-11-04 13:27:15,445 INFO: Sent job: Cloud Devops engineer - https://in.linkedin.com/jobs/view/cloud-devops-engineer-at-symplr-4311826796?position=10&pageNum=2&refId=95X%2BA7PfzHa115qSQgcAFA%3D%3D&trackingId=SEdQ%2BaDEq0V1Hsb7ycElsg%3D%3D
+2025-11-04 13:27:18,487 INFO: Sent job: Linux Admin - https://in.linkedin.com/jobs/view/linux-admin-at-wipro-4318969405?position=9&pageNum=0&refId=zvawHd524JadRTZL%2By1%2BDg%3D%3D&trackingId=RGwm%2F9vOLbepPoZa5pNiRQ%3D%3D
+2025-11-04 13:27:19,491 INFO: Send complete. New jobs sent: 14
+2025-11-04 13:27:19,492 INFO: Job "job_cycle (trigger: interval[0:30:00], next run at: 2025-11-04 13:55:52 IST)" executed successfully
+2025-11-04 13:29:15,003 INFO: Shutting down scheduler
+2025-11-04 13:29:15,005 INFO: Scheduler has been shut down
+2025-11-04 13:54:36,366 INFO: patching driver executable C:\Users\jaypo\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-04 13:54:39,985 INFO: Starting DevOps job bot
+2025-11-04 13:54:40,013 INFO: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-11-04 13:54:40,035 INFO: Added job "job_cycle" to job store "default"
+2025-11-04 13:54:40,035 INFO: Scheduler started
+2025-11-04 13:54:40,037 INFO: Running job "job_cycle (trigger: interval[0:30:00], next run at: 2025-11-04 08:24:40 IST)" (scheduled at 2025-11-04 13:54:40.010315+05:30)
+2025-11-04 13:54:40,037 INFO: Scheduler started: interval 30 minutes
+2025-11-04 13:54:40,038 INFO: Starting scrape cycle
+2025-11-04 13:54:43,293 INFO: Found 0 jobs on Indeed for devops
+2025-11-04 13:54:47,421 INFO: Found 0 jobs on Indeed for devops engineer
+2025-11-04 13:54:50,521 INFO: Found 0 jobs on Indeed for linux
+2025-11-04 13:54:50,522 ERROR: Error during job_cycle: NaukriScraper.search() got an unexpected keyword argument 'days'
+Traceback (most recent call last):
+  File "C:\Users\jaypo\OneDrive\Desktop\devops-job-bot\bot.py", line 120, in job_cycle
+    jobs += naukri.search(query="devops", days=7)
+            ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: NaukriScraper.search() got an unexpected keyword argument 'days'
+2025-11-04 13:54:50,525 INFO: Job "job_cycle (trigger: interval[0:30:00], next run at: 2025-11-04 14:24:40 IST)" executed successfully
+2025-11-04 14:00:23,743 INFO: Shutting down scheduler
+2025-11-04 14:00:23,744 INFO: Scheduler has been shut down
+2025-11-04 14:00:32,391 INFO: patching driver executable C:\Users\jaypo\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-04 14:00:35,683 INFO: Starting DevOps job bot
+2025-11-04 14:00:35,691 INFO: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-11-04 14:00:35,710 INFO: Added job "job_cycle" to job store "default"
+2025-11-04 14:00:35,710 INFO: Scheduler started
+2025-11-04 14:00:35,712 INFO: Running job "job_cycle (trigger: interval[0:30:00], next run at: 2025-11-04 08:30:35 IST)" (scheduled at 2025-11-04 14:00:35.690333+05:30)
+2025-11-04 14:00:35,712 INFO: Scheduler started: interval 30 minutes
+2025-11-04 14:00:35,712 INFO: Starting scrape cycle
+2025-11-04 14:00:38,997 INFO: Found 0 jobs on Indeed for devops
+2025-11-04 14:00:42,237 INFO: Found 0 jobs on Indeed for devops engineer
+2025-11-04 14:00:45,361 INFO: Found 0 jobs on Indeed for linux
+2025-11-04 14:00:48,260 INFO: Found 0 jobs on Naukri for devops
+2025-11-04 14:00:50,734 INFO: Found 0 jobs on Naukri for devops engineer
+2025-11-04 14:00:53,616 INFO: Found 0 jobs on Naukri for cloud
+2025-11-04 14:01:04,835 INFO: Fetched 50 total job candidates
+2025-11-04 14:01:04,836 INFO: 14 jobs after date filter
+2025-11-04 14:01:04,836 INFO: 14 unique jobs after dedupe
+2025-11-04 14:01:06,153 INFO: Sent job: DevOps Engineer - https://in.linkedin.com/jobs/view/devops-engineer-at-dhl-4316607494?position=5&pageNum=0&refId=TH3Z%2F32fwqPWrSxVsUlrUA%3D%3D&trackingId=%2FwI9XfiZkOj%2BFnNxUTQUIA%3D%3D
+2025-11-04 14:01:09,889 INFO: Sent job: Associate DevOps Engineer - https://in.linkedin.com/jobs/view/associate-devops-engineer-at-dhl-4316498987?position=7&pageNum=0&refId=TH3Z%2F32fwqPWrSxVsUlrUA%3D%3D&trackingId=LUGy4GdszcH5MTG39L1AfA%3D%3D
+2025-11-04 14:01:12,253 INFO: Sent job: DevOps Engineer - https://in.linkedin.com/jobs/view/devops-engineer-at-coretek-4333805177?position=8&pageNum=0&refId=TH3Z%2F32fwqPWrSxVsUlrUA%3D%3D&trackingId=YvwRHXk%2BAH310AWHSgz7hg%3D%3D
+2025-11-04 14:01:14,473 INFO: Sent job: Devops Engineer - https://in.linkedin.com/jobs/view/devops-engineer-at-infosys-4320032037?position=9&pageNum=0&refId=TH3Z%2F32fwqPWrSxVsUlrUA%3D%3D&trackingId=eTJ89qXWz97si1Zn1Ok4Lg%3D%3D
+2025-11-04 14:01:17,671 INFO: Sent job: Devops Engineer (Git Hub Actions/Git Labs CICD) - https://in.linkedin.com/jobs/view/devops-engineer-git-hub-actions-git-labs-cicd-at-infosys-4319967868?position=1&pageNum=2&refId=05UsFkeXR81caNtK2Li8nA%3D%3D&trackingId=p0UZr0ABVNtAw5PoYJ4DKQ%3D%3D
+2025-11-04 14:01:19,814 INFO: Sent job: DevOps Engineer - https://in.linkedin.com/jobs/view/devops-engineer-at-wipro-4333083992?position=2&pageNum=2&refId=05UsFkeXR81caNtK2Li8nA%3D%3D&trackingId=%2BfClrr9bXAY1Z6wmqc%2BCVQ%3D%3D
+2025-11-04 14:01:26,292 INFO: Sent job: Devops Engineer II - https://in.linkedin.com/jobs/view/devops-engineer-ii-at-conviva-4312642934?position=3&pageNum=2&refId=05UsFkeXR81caNtK2Li8nA%3D%3D&trackingId=BRRZz6B%2F2Zu4i%2BlGXKD3Iw%3D%3D
+2025-11-04 14:01:44,344 INFO: Sent job: DevOps Engineer - https://in.linkedin.com/jobs/view/devops-engineer-at-coretek-4333805177?position=5&pageNum=0&refId=IZlhrIjsFD9eEcA5HhCx5w%3D%3D&trackingId=o%2F8aQFTW1k07u1hiGRyccw%3D%3D
+2025-11-04 14:01:46,614 INFO: Sent job: DevOps Engineer - https://in.linkedin.com/jobs/view/devops-engineer-at-dhl-4316607494?position=6&pageNum=0&refId=IZlhrIjsFD9eEcA5HhCx5w%3D%3D&trackingId=6E0KUtn9RHNhofsg8B8rwg%3D%3D
+2025-11-04 14:01:49,352 INFO: Sent job: Associate DevOps Engineer - https://in.linkedin.com/jobs/view/associate-devops-engineer-at-dhl-4316498987?position=7&pageNum=0&refId=IZlhrIjsFD9eEcA5HhCx5w%3D%3D&trackingId=9DEYudD2MG0Ix7XwxHr2hg%3D%3D
+2025-11-04 14:01:51,686 INFO: Sent job: Devops Engineer - https://in.linkedin.com/jobs/view/devops-engineer-at-infosys-4320032037?position=9&pageNum=0&refId=IZlhrIjsFD9eEcA5HhCx5w%3D%3D&trackingId=a3Px3xgSQB6HciCWIN%2Fbjg%3D%3D
+2025-11-04 14:01:54,886 INFO: Sent job: Cloud Engineer - https://in.linkedin.com/jobs/view/cloud-engineer-at-scoutit-4320423216?position=2&pageNum=2&refId=sybehmvwnYb8dKbhpRxsUQ%3D%3D&trackingId=aHRtUZkneI66BBxVd831nw%3D%3D
+2025-11-04 14:01:57,867 INFO: Sent job: Cloud Devops engineer - https://in.linkedin.com/jobs/view/cloud-devops-engineer-at-symplr-4311829734?position=6&pageNum=2&refId=sybehmvwnYb8dKbhpRxsUQ%3D%3D&trackingId=o1Q99ztwrX3IjlzNYpMGDw%3D%3D
+2025-11-04 14:02:00,058 INFO: Sent job: Linux Admin - https://in.linkedin.com/jobs/view/linux-admin-at-wipro-4318969405?position=9&pageNum=0&refId=JkJ5uIR4SLPrdkeY8OjzXw%3D%3D&trackingId=JJxSP%2FwEiOSEG18pGGI9EA%3D%3D
+2025-11-04 14:02:01,060 INFO: Send complete. New jobs sent: 14
+2025-11-04 14:02:01,060 INFO: Job "job_cycle (trigger: interval[0:30:00], next run at: 2025-11-04 14:30:35 IST)" executed successfully
+2025-11-04 14:03:26,141 INFO: Shutting down scheduler
+2025-11-04 14:03:26,143 INFO: Scheduler has been shut down
+2025-11-04 14:21:03,314 [INFO] \U0001f916 DevOps Job Bot started
+2025-11-04 14:21:03,322 [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-11-04 14:21:03,324 [INFO] Added job "job_cycle" to job store "default"
+2025-11-04 14:21:03,325 [INFO] Scheduler started
+2025-11-04 14:21:03,327 [INFO] Running job "job_cycle (trigger: interval[0:30:00], next run at: 2025-11-04 08:51:03 IST)" (scheduled at 2025-11-04 14:21:03.320919+05:30)
+2025-11-04 14:21:03,326 [INFO] \u23f1 Scheduler running every 30 minutes
+2025-11-04 14:21:03,327 [INFO] \U0001f680 Starting scrape cycle
+2025-11-04 14:21:10,654 [INFO] \U0001f4ca Fetched 20 total job candidates
+2025-11-04 14:21:10,655 [INFO] \u2705 20 unique jobs after dedupe
+2025-11-04 14:21:10,669 [ERROR] Failed to send job: 'TelegramNotifier' object has no attribute 'send_message'
+Traceback (most recent call last):
+  File "C:\Users\jaypo\OneDrive\Desktop\devops-job-bot\bot.py", line 124, in job_cycle
+    notifier.send_message(msg)
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'TelegramNotifier' object has no attribute 'send_message'
+2025-11-04 14:21:10,673 [ERROR] Failed to send job: 'TelegramNotifier' object has no attribute 'send_message'
+Traceback (most recent call last):
+  File "C:\Users\jaypo\OneDrive\Desktop\devops-job-bot\bot.py", line 124, in job_cycle
+    notifier.send_message(msg)
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'TelegramNotifier' object has no attribute 'send_message'
+2025-11-04 14:21:10,674 [ERROR] Failed to send job: 'TelegramNotifier' object has no attribute 'send_message'
+Traceback (most recent call last):
+  File "C:\Users\jaypo\OneDrive\Desktop\devops-job-bot\bot.py", line 124, in job_cycle
+    notifier.send_message(msg)
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'TelegramNotifier' object has no attribute 'send_message'
+2025-11-04 14:21:10,675 [ERROR] Failed to send job: 'TelegramNotifier' object has no attribute 'send_message'
+Traceback (most recent call last):
+  File "C:\Users\jaypo\OneDrive\Desktop\devops-job-bot\bot.py", line 124, in job_cycle
+    notifier.send_message(msg)
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'TelegramNotifier' object has no attribute 'send_message'
+2025-11-04 14:21:10,676 [ERROR] Failed to send job: 'TelegramNotifier' object has no attribute 'send_message'
+Traceback (most recent call last):
+  File "C:\Users\jaypo\OneDrive\Desktop\devops-job-bot\bot.py", line 124, in job_cycle
+    notifier.send_message(msg)
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'TelegramNotifier' object has no attribute 'send_message'
+2025-11-04 14:21:10,677 [ERROR] Failed to send job: 'TelegramNotifier' object has no attribute 'send_message'
+Traceback (most recent call last):
+  File "C:\Users\jaypo\OneDrive\Desktop\devops-job-bot\bot.py", line 124, in job_cycle
+    notifier.send_message(msg)
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'TelegramNotifier' object has no attribute 'send_message'
+2025-11-04 14:21:10,678 [ERROR] Failed to send job: 'TelegramNotifier' object has no attribute 'send_message'
+Traceback (most recent call last):
+  File "C:\Users\jaypo\OneDrive\Desktop\devops-job-bot\bot.py", line 124, in job_cycle
+    notifier.send_message(msg)
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'TelegramNotifier' object has no attribute 'send_message'
+2025-11-04 14:21:10,680 [ERROR] Failed to send job: 'TelegramNotifier' object has no attribute 'send_message'
+Traceback (most recent call last):
+  File "C:\Users\jaypo\OneDrive\Desktop\devops-job-bot\bot.py", line 124, in job_cycle
+    notifier.send_message(msg)
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'TelegramNotifier' object has no attribute 'send_message'
+2025-11-04 14:21:10,681 [ERROR] Failed to send job: 'TelegramNotifier' object has no attribute 'send_message'
+Traceback (most recent call last):
+  File "C:\Users\jaypo\OneDrive\Desktop\devops-job-bot\bot.py", line 124, in job_cycle
+    notifier.send_message(msg)
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'TelegramNotifier' object has no attribute 'send_message'
+2025-11-04 14:21:10,682 [ERROR] Failed to send job: 'TelegramNotifier' object has no attribute 'send_message'
+Traceback (most recent call last):
+  File "C:\Users\jaypo\OneDrive\Desktop\devops-job-bot\bot.py", line 124, in job_cycle
+    notifier.send_message(msg)
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'TelegramNotifier' object has no attribute 'send_message'
+2025-11-04 14:21:10,682 [ERROR] Failed to send job: 'TelegramNotifier' object has no attribute 'send_message'
+Traceback (most recent call last):
+  File "C:\Users\jaypo\OneDrive\Desktop\devops-job-bot\bot.py", line 124, in job_cycle
+    notifier.send_message(msg)
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'TelegramNotifier' object has no attribute 'send_message'
+2025-11-04 14:21:10,683 [ERROR] Failed to send job: 'TelegramNotifier' object has no attribute 'send_message'
+Traceback (most recent call last):
+  File "C:\Users\jaypo\OneDrive\Desktop\devops-job-bot\bot.py", line 124, in job_cycle
+    notifier.send_message(msg)
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'TelegramNotifier' object has no attribute 'send_message'
+2025-11-04 14:21:10,684 [ERROR] Failed to send job: 'TelegramNotifier' object has no attribute 'send_message'
+Traceback (most recent call last):
+  File "C:\Users\jaypo\OneDrive\Desktop\devops-job-bot\bot.py", line 124, in job_cycle
+    notifier.send_message(msg)
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'TelegramNotifier' object has no attribute 'send_message'
+2025-11-04 14:21:10,684 [ERROR] Failed to send job: 'TelegramNotifier' object has no attribute 'send_message'
+Traceback (most recent call last):
+  File "C:\Users\jaypo\OneDrive\Desktop\devops-job-bot\bot.py", line 124, in job_cycle
+    notifier.send_message(msg)
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'TelegramNotifier' object has no attribute 'send_message'
+2025-11-04 14:21:10,685 [ERROR] Failed to send job: 'TelegramNotifier' object has no attribute 'send_message'
+Traceback (most recent call last):
+  File "C:\Users\jaypo\OneDrive\Desktop\devops-job-bot\bot.py", line 124, in job_cycle
+    notifier.send_message(msg)
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'TelegramNotifier' object has no attribute 'send_message'
+2025-11-04 14:21:10,686 [ERROR] Failed to send job: 'TelegramNotifier' object has no attribute 'send_message'
+Traceback (most recent call last):
+  File "C:\Users\jaypo\OneDrive\Desktop\devops-job-bot\bot.py", line 124, in job_cycle
+    notifier.send_message(msg)
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'TelegramNotifier' object has no attribute 'send_message'
+2025-11-04 14:21:10,686 [ERROR] Failed to send job: 'TelegramNotifier' object has no attribute 'send_message'
+Traceback (most recent call last):
+  File "C:\Users\jaypo\OneDrive\Desktop\devops-job-bot\bot.py", line 124, in job_cycle
+    notifier.send_message(msg)
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'TelegramNotifier' object has no attribute 'send_message'
+2025-11-04 14:21:10,687 [ERROR] Failed to send job: 'TelegramNotifier' object has no attribute 'send_message'
+Traceback (most recent call last):
+  File "C:\Users\jaypo\OneDrive\Desktop\devops-job-bot\bot.py", line 124, in job_cycle
+    notifier.send_message(msg)
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'TelegramNotifier' object has no attribute 'send_message'
+2025-11-04 14:21:10,688 [ERROR] Failed to send job: 'TelegramNotifier' object has no attribute 'send_message'
+Traceback (most recent call last):
+  File "C:\Users\jaypo\OneDrive\Desktop\devops-job-bot\bot.py", line 124, in job_cycle
+    notifier.send_message(msg)
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'TelegramNotifier' object has no attribute 'send_message'
+2025-11-04 14:21:10,688 [ERROR] Failed to send job: 'TelegramNotifier' object has no attribute 'send_message'
+Traceback (most recent call last):
+  File "C:\Users\jaypo\OneDrive\Desktop\devops-job-bot\bot.py", line 124, in job_cycle
+    notifier.send_message(msg)
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'TelegramNotifier' object has no attribute 'send_message'
+2025-11-04 14:21:10,690 [INFO] \U0001f3af Send complete. New jobs sent: 0
+2025-11-04 14:21:10,692 [INFO] Job "job_cycle (trigger: interval[0:30:00], next run at: 2025-11-04 14:51:03 IST)" executed successfully
+2025-11-04 14:24:25,744 [INFO] \U0001f6d1 Shutting down scheduler
+2025-11-04 14:24:25,746 [INFO] Scheduler has been shut down
+2025-11-04 14:24:28,374 [INFO] \U0001f916 DevOps Job Bot started
+2025-11-04 14:24:28,380 [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-11-04 14:24:28,386 [INFO] Added job "job_cycle" to job store "default"
+2025-11-04 14:24:28,386 [INFO] Scheduler started
+2025-11-04 14:24:28,387 [INFO] Running job "job_cycle (trigger: interval[0:30:00], next run at: 2025-11-04 08:54:28 IST)" (scheduled at 2025-11-04 14:24:28.379599+05:30)
+2025-11-04 14:24:28,387 [INFO] \u23f1 Scheduler running every 30 minutes
+2025-11-04 14:24:28,388 [INFO] \U0001f680 Starting scrape cycle
+2025-11-04 14:24:34,958 [INFO] \U0001f4ca Fetched 20 total job candidates
+2025-11-04 14:24:34,959 [INFO] \u2705 20 unique jobs after dedupe
+2025-11-04 14:24:36,175 [INFO] \u2705 Sent job: Devops Engineer - Infosys
+2025-11-04 14:24:38,571 [INFO] \u2705 Sent job: DevOps Engineer - Easebuzz
+2025-11-04 14:24:42,287 [INFO] \u2705 Sent job: DevOps Engineer - Larsen & Toubro
+2025-11-04 14:24:45,844 [INFO] \u2705 Sent job: Devops Engineer 2 - Jar
+2025-11-04 14:24:48,140 [INFO] \u2705 Sent job: DevOps Engineer - DHL
+2025-11-04 14:24:50,719 [INFO] \u2705 Sent job: DevOps Engineer - Adobe
+2025-11-04 14:24:53,136 [INFO] \u2705 Sent job: Associate DevOps Engineer - DHL
+2025-11-04 14:24:55,621 [INFO] \u2705 Sent job: DevOps Engineer - Coretek
+2025-11-04 14:25:13,836 [INFO] \u2705 Sent job: Devops Engineer - Infosys
+2025-11-04 14:25:16,181 [INFO] \u2705 Sent job: DevOps Engineer - PwC Acceleration Centers
+2025-11-04 14:25:18,371 [INFO] \u2705 Sent job: Devops Engineer (Git Hub Actions/Git Labs CICD) - Infosys
+2025-11-04 14:25:20,674 [INFO] \u2705 Sent job: DevOps Engineer - Wipro
+2025-11-04 14:25:23,740 [INFO] \u2705 Sent job: Devops Engineer II - Conviva
+2025-11-04 14:25:27,803 [INFO] \u2705 Sent job: DevOps Engineer - Sonata Software
+2025-11-04 14:25:30,471 [INFO] \u2705 Sent job: DevOps Engineer - BarRaiser
+2025-11-04 14:25:33,601 [INFO] \u2705 Sent job: DevOps Engineer - Siemens
+2025-11-04 14:25:36,576 [INFO] \u2705 Sent job: DevOps Engineer - AWS/Kubernetes - Mentorpal.ai Tech Hiring
+2025-11-04 14:25:38,958 [INFO] \u2705 Sent job: DevOps Engineer - Tazapay
+2025-11-04 14:25:42,184 [INFO] \u2705 Sent job: DevOps Engineer - iNetFrame Technologies
+2025-11-04 14:25:44,625 [INFO] \u2705 Sent job: DevOps Engineer - Cognizant
+2025-11-04 14:25:45,629 [INFO] \U0001f3af Send complete. New jobs sent: 20
+2025-11-04 14:25:45,633 [INFO] Job "job_cycle (trigger: interval[0:30:00], next run at: 2025-11-04 14:54:28 IST)" executed successfully
+2025-11-04 14:27:15,469 [INFO] \U0001f6d1 Shutting down scheduler
+2025-11-04 14:27:15,471 [INFO] Scheduler has been shut down
+2025-11-04 14:37:12,157 [INFO] Starting DevOps Job Bot (resume-aware)
+2025-11-04 14:37:12,164 [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-11-04 14:37:12,167 [INFO] Added job "job_cycle" to job store "default"
+2025-11-04 14:37:12,167 [INFO] Scheduler started
+2025-11-04 14:37:12,169 [INFO] Running job "job_cycle (trigger: interval[0:30:00], next run at: 2025-11-04 09:07:12 IST)" (scheduled at 2025-11-04 14:37:12.163264+05:30)
+2025-11-04 14:37:12,169 [INFO] Scheduler started: interval 30 minutes
+2025-11-04 14:37:12,170 [INFO] Starting scrape cycle
+2025-11-04 14:37:27,728 [ERROR] LinkedIn scraping error: HTTPSConnectionPool(host='www.linkedin.com', port=443): Read timed out. (read timeout=15)
+Traceback (most recent call last):
+  File "C:\Users\jaypo\AppData\Roaming\Python\Python313\site-packages\urllib3\connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\jaypo\AppData\Roaming\Python\Python313\site-packages\urllib3\connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "C:\Users\jaypo\AppData\Roaming\Python\Python313\site-packages\urllib3\connection.py", line 790, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "C:\Users\jaypo\AppData\Roaming\Python\Python313\site-packages\urllib3\connection.py", line 969, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "C:\Users\jaypo\AppData\Roaming\Python\Python313\site-packages\urllib3\util\ssl_.py", line 480, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "C:\Users\jaypo\AppData\Roaming\Python\Python313\site-packages\urllib3\util\ssl_.py", line 524, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+TimeoutError: _ssl.c:1011: The handshake operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jaypo\AppData\Roaming\Python\Python313\site-packages\requests\adapters.py", line 644, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\Users\jaypo\AppData\Roaming\Python\Python313\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\jaypo\AppData\Roaming\Python\Python313\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jaypo\AppData\Roaming\Python\Python313\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "C:\Users\jaypo\AppData\Roaming\Python\Python313\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\jaypo\AppData\Roaming\Python\Python313\site-packages\urllib3\connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "C:\Users\jaypo\AppData\Roaming\Python\Python313\site-packages\urllib3\connectionpool.py", line 466, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=conn.timeout)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jaypo\AppData\Roaming\Python\Python313\site-packages\urllib3\connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+        self, url, f"Read timed out. (read timeout={timeout_value})"
+    ) from err
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='www.linkedin.com', port=443): Read timed out. (read timeout=15)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\jaypo\OneDrive\Desktop\devops-job-bot\scraper\linkedin_scraper.py", line 37, in search
+    r = self.session.get(url, timeout=15)
+  File "C:\Users\jaypo\AppData\Roaming\Python\Python313\site-packages\requests\sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jaypo\AppData\Roaming\Python\Python313\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\jaypo\AppData\Roaming\Python\Python313\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\jaypo\AppData\Roaming\Python\Python313\site-packages\requests\adapters.py", line 690, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='www.linkedin.com', port=443): Read timed out. (read timeout=15)
+2025-11-04 14:37:30,602 [INFO] Fetched 0 total job candidates
+2025-11-04 14:37:30,602 [INFO] 0 jobs after date filter (7 days)
+2025-11-04 14:37:30,602 [INFO] Top job scores: []
+2025-11-04 14:37:30,602 [INFO] 0 unique jobs after dedupe
+2025-11-04 14:37:30,621 [INFO] Send complete. New jobs sent: 0
+2025-11-04 14:37:30,621 [INFO] Job "job_cycle (trigger: interval[0:30:00], next run at: 2025-11-04 15:07:12 IST)" executed successfully
+2025-11-04 14:39:48,654 [INFO] Shutting down scheduler
+2025-11-04 14:39:48,655 [INFO] Scheduler has been shut down

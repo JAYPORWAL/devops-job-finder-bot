@@ -9,10 +9,6 @@ Tech: Python • Docker • Telegram Bot • Scraping • Automation
 
 DevOps Job Bot is an intelligent job-scraping and alert system that automatically finds the most relevant DevOps & Cloud Engineer jobs/internships from multiple platforms — LinkedIn, Naukri, Indeed, and Internshala — and sends them directly to your Telegram every few hours.
 
-This version is resume-aware — it reads your DevOps skills (AWS, GCP, Docker, Terraform, GitHub Actions, etc.), filters out irrelevant roles, and ranks job listings based on your experience level and keyword relevance.
-
-✨ Features
-
 ✅ Multi-Platform Scraping
 
 Collects latest job listings from LinkedIn, Indeed, Naukri, and Internshala.
